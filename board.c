@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdint.h>
-#include "includes/constants.h"
+#include "constants.h"
 #include <string.h>
 
 #define IS_LOWER(a) ((a>='a') && (a<='z'))
